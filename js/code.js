@@ -15,7 +15,7 @@ Highcharts.chart('container', {
     },
 
     subtitle: {
-        text: 'Source: SVAC'
+        text: 'Source: SVAC - <a href="http://www.sexualviolencedata.org/dataset/">click here for more info</a>'
     },
 
     xAxis: {
