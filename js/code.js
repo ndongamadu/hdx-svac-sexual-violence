@@ -47,7 +47,7 @@ Highcharts.chart('container', {
         useHTML: true,
         headerFormat: '<table>',
         pointFormat: '<tr><th colspan="2"><h3>{point.country}</h3></th></tr>' +
-            '<tr><th>Total SV reported :</th><td>{point.x}</td></tr>'+
+            '<tr><th>Total SV reported :</th><td>{point.y}</td></tr>'+
             '<tr><th>Rape :</th><td>{point.rape}</td></tr>'+
             '<tr><th>Sexual torture :</th><td>{point.sexual_torture}</td></tr>'+
             '<tr><th>Sexual slavery :</th><td>{point.sexual_slavery}</td></tr>',
